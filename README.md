@@ -5,6 +5,8 @@ A nylon cord and galvanized steel wire are used to trigger each nozzle.
 
 VIDEO LINK:
 
+https://drive.google.com/file/d/1kMzAXELgxTzAOp7D8Ntg1YHHJvojv_z9/view?usp=sharing
+
 IMAGE:
 
 ![image](https://user-images.githubusercontent.com/59476460/123056788-412e9a00-d3d5-11eb-93ea-5ca7c3033c54.png)
